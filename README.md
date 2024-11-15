@@ -1,6 +1,6 @@
 # Food Crush
 
-![Main Screen Screenshot](assets/main_screen_image.png)
+![Main Screen Screenshot](assets/main_screen_image.PNG)
 
 **Description**  
 Food Crush is a fun and challenging 3-in-a-row puzzle game where players match corresponding food items to score points. The gameplay algorithm automatically detects and matches similar items to clear the board.
@@ -10,7 +10,7 @@ Food Crush is a fun and challenging 3-in-a-row puzzle game where players match c
 - Gameplay algorithm that automatically identifies matching items.
 - Engaging levels with increasing difficulty.
 
-![Game Screen Screenshot](assets/game_screen_image.png)
+![Game Screen Screenshot](assets/game_screen_image.PNG)
 
 **Technologies Used:**
 - Unity
