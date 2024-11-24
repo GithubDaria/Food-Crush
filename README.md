@@ -26,6 +26,10 @@ Food Crush is a fun and challenging 3-in-a-row puzzle game where players match c
 **Future Plans:**
 - [Optional] Mention any updates, like adding new levels, power-ups, or challenges.
 
+Check out this cool video about my project:
+
+[![Watch Video](https://img.youtube.com/vi/cAEwzRttWyM/0.jpg)](https://youtu.be/cAEwzRttWyM)
+
 ---
 
 Feel free to explore more of my work on GitHub!
