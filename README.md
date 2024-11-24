@@ -17,9 +17,6 @@ Food Crush is a fun and challenging 3-in-a-row puzzle game where players match c
 - C#
 - Photoshop for assets
 
-**Links:**
-- [Google Play Store Link](#) (if applicable, or you can provide a Windows download link)
-
 **Platforms:**
 - Windows
 
